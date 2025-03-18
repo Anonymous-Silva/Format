@@ -65,5 +65,4 @@ Para iPhones com Face ID (incluindo iPhone 14):
 
 ---
 
-> **Feito por Sisi — Partilhando conhecimento!**
-"""
+> **Feito por Anonymous-Silva — Partilhando conhecimento!**
