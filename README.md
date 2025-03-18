@@ -20,4 +20,11 @@ Seja porque esqueceste a senha, estás a preparar o dispositivo para venda ou ap
 
 ---
 
+## Repository structure / Estrutura do repositório:
+```
+/README.md — Project explanation in EN & PT
+/links/official_tools.md — Links to official Apple tools and references
+/tutorials/ (optional) — Place to add detailed guides if desired
+```
+
 **Created & shared by Anonymous-Silva 🇵🇹🚀**
