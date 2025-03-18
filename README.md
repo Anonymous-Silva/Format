@@ -1,5 +1,5 @@
 # Como formatar um MacBook, Mac mini e iPhone
-**Autor:** Anonymous-Silva  
+**Autor:** Anonymous-Silva 🇵🇹🚀
 
 ## Índice:
 1. [Formatar MacBook ou Mac mini](#formatar-macbook-ou-mac-mini)  
